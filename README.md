@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="Coding Guy" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Coding Guy" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 
 ### 💡 About Me
