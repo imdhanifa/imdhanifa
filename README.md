@@ -16,7 +16,7 @@
 - 🧠 Always exploring: New frameworks, Dev tools, & Best Practices  
 - 🌐 Portfolio: 
 - 📧 Reach me: **imdhanifa@outlook.com**  
-- 📝 Resume: **[Mohamed Hanifa](./Mohamed_Hanifa_Software_Developer_Resume.pdf)**
+- 📝 Resume: **[Mohamed Hanifa](https://github.com/imdhanifa/imdhanifa/blob/main/Mohamed_Hanifa_Software_Developer_Resume.pdf)**
 
 
 ### 🌐 Connect with Me
