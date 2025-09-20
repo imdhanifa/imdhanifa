@@ -12,9 +12,9 @@
 
 ### 💡 About Me
 
-- 🎯 Currently Working On: 
+- 🎯 Currently Working On: -----------------------
 - 🧠 Always exploring: New frameworks, Dev tools, & Best Practices  
-- 🌐 Portfolio: 
+- 🌐 Portfolio: **[Mohamed Hanifa](https://imdhanifa.github.io/portfolio)**
 - 📧 Reach me: **imdhanifa@outlook.com**  
 - 📝 Resume: **[Mohamed Hanifa](https://github.com/imdhanifa/imdhanifa/blob/main/Mohamed_Hanifa_Software_Developer_Resume.pdf)**
 
