@@ -97,10 +97,10 @@
 ### 🎯 Fun Facts
 
 - 🧩 I build pixel-perfect, interactive UIs using both React and Angular
-- 🔗 I develop scalable backend services with .NET Web API — fast, secure, and maintainable 
+- 🔗 I develop scalable backend services with .NET Web API - fast, secure, and maintainable 
 - 💡 I enjoy turning complex problems into clean, user-friendly solutions
-- 🔄 I love to experiment — break things, fix them better, and keep learning
-- ☕ Coffee, clean code, and the occasional debugging smoke — that's my dev fuel 😄
+- 🔄 I love to experiment - break things, fix them better, and keep learning
+- ☕ Coffee, clean code, and the occasional debugging smoke - that's my dev fuel 😄
 
 ---
 
